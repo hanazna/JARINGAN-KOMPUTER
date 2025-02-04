@@ -1,9 +1,9 @@
 
 ## *Pemasangan Kabel TV Straight dan Cross*
 
-#### Nama  : Hana Zakiyah Nur Aliyah
-#### NIM   : 09030282327053
-#### Kelas : TK4C
+Nama  : Hana Zakiyah Nur Aliyah
+NIM   : 09030282327053
+Kelas : TK4C
 
 ### *A. TUJUAN PRAKTIKUM*
 Tujuan dari praktikum ini adalah untuk memahami serta mengaplikasikan teknik pemasangan kabel TV dengan konfigurasi straight dan cross secara tepat guna mendukung transmisi sinyal yang optimal. Secara lebih spesifik, tujuan praktikum ini meliputi:
