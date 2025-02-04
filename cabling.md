@@ -12,16 +12,16 @@
 ### *Langkah-Langkah*
 1. Ambil kabel lalu gunakan pemotong kabel untuk memotong kabel coaxial sesuai panjang yang dibutuhkan.
 2. Gunakan cutter untuk mengupas sekitar 1,5 cm dari ujung kabel coaxial.
-3. Atur urutan warna kabel straight dan cross sesuai gambar
+3. Atur urutan 8 warna kabel straight dan cross sesuai gambar
 ###### ![WhatsApp Image 2025-01-29 at 16 55 41_0fe4b2c0](https://github.com/user-attachments/assets/b4775e86-3cc8-4f97-9b54-8d84e16a1214)
 4. Masukkan konektor ke kabel hingga rapat.
 5. Gunakan tang crimping untuk menjepit konektor sampai berbunyi "klik".
-6. Lakukan pengecekan dengan alat testing untuk melihat apakah pemasangan kabel sudah benar. Jika ada masalah, lakukan ulang pemasangan kabel dari awal.
+###### ![WhatsApp Image 2025-01-29 at 16 50 20_137a38ac](https://github.com/user-attachments/assets/c58e2ac0-aa7d-4be5-a2dc-40203ef87e8c)
+7. Lakukan pengecekan dengan alat testing untuk melihat apakah pemasangan kabel sudah benar. Jika ada masalah, lakukan ulang pemasangan kabel dari awal.
 
 Hasil percobaan: 
-straight :
-![WhatsApp Image 2025-01-29 at 16 50 20_137a38ac](https://github.com/user-attachments/assets/c58e2ac0-aa7d-4be5-a2dc-40203ef87e8c)
-![WhatsApp Image 2025-01-29 at 16 59 47_5c36d12f](https://github.com/user-attachments/assets/0a52b388-757a-4919-9ffd-cf3c191d7d01)
+kabel straight :
+###### ![WhatsApp Image 2025-01-29 at 16 59 47_5c36d12f](https://github.com/user-attachments/assets/0a52b388-757a-4919-9ffd-cf3c191d7d01)
 
 kabel crossover :
-![WhatsApp Image 2025-01-29 at 16 58 38_58a4431d](https://github.com/user-attachments/assets/d47bab12-64da-42bb-aa3a-0717f59c132a)
+###### ![WhatsApp Image 2025-01-29 at 16 58 38_58a4431d](https://github.com/user-attachments/assets/d47bab12-64da-42bb-aa3a-0717f59c132a)
