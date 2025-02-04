@@ -33,10 +33,20 @@ Mengetahui perbedaan konfigurasi straight dan cross, serta kapan dan di mana mas
 
 ### *D. Hasil percobaan* 
 
-a. kabel straight
+a) kabel straight
 ###### ![WhatsApp Image 2025-01-29 at 16 59 47_5c36d12f](https://github.com/user-attachments/assets/0a52b388-757a-4919-9ffd-cf3c191d7d01)
 
-b. kabel crossover 
+b) kabel crossover 
 ###### ![WhatsApp Image 2025-01-29 at 16 58 38_58a4431d](https://github.com/user-attachments/assets/d47bab12-64da-42bb-aa3a-0717f59c132a)
+
+### *E. Kesimpulan*
+
+Berdasarkan hasil praktikum pemasangan kabel TV dengan konfigurasi straight dan cross, dapat disimpulkan bahwa pemasangan kabel yang tepat sangat mempengaruhi kualitas transmisi sinyal TV. Kabel coaxial yang digunakan, seperti RG6 atau RG59, harus dipotong dan dikupas dengan benar agar tidak terjadi gangguan sinyal. Selain itu, pemasangan konektor memerlukan teknik yang teliti, termasuk memastikan bahwa konduktor inti tidak bersentuhan dengan serabut kabel dan konektor dikencangkan dengan baik menggunakan tang crimping. Pengecekan menggunakan alat tester kabel juga penting untuk memastikan koneksi sudah benar dan sinyal dapat mengalir dengan baik.
+
+Perbedaan antara kabel straight dan cross juga harus dipahami untuk menentukan penggunaannya dalam sistem TV dan jaringan komunikasi. Kabel straight digunakan untuk menghubungkan perangkat dengan fungsi berbeda, seperti TV ke receiver atau set-top box, sementara kabel cross lebih sering digunakan dalam sistem distribusi sinyal yang menghubungkan perangkat dengan fungsi serupa. Dengan pemahaman yang baik tentang konfigurasi dan teknik pemasangan kabel, gangguan sinyal dapat diminimalkan sehingga menghasilkan kualitas gambar dan suara yang lebih optimal.
+
+
+
+
 
 
