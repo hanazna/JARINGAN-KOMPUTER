@@ -1,12 +1,15 @@
-Percobaan :
+Nama  : HANA ZAKIYAH NUR A.
+NIM   : 09030282327053
 
-Hubungkan perangkat ke internet/wifi
+## *Langkah-Langkah*
 
+1) Hubungkan perangkat ke internet/wifi
+![Screenshot 2025-02-24 000104](https://github.com/user-attachments/assets/2becf3b9-70ce-4a33-a07d-10d04fdf506a)
 
-Buka aplikasi Wireshark, lalu pilih interface jaringan yang secara aktif terhubung ke internet, seperti Wi-Fi atau Ethernet
+2) Buka aplikasi Wireshark, lalu pilih interface jaringan yang secara aktif terhubung ke internet, seperti Wi-Fi atau Ethernet
+![Screenshot 2025-02-24 000332](https://github.com/user-attachments/assets/381987c5-d1ee-4216-8bd0-52927f7d23f4)
 
-
-Lalu jalankan Wireshark untuk menjalankan capture packet dan menganalisis lalu lintas jaringan
+3) Lalu jalankan Wireshark untuk menjalankan capture packet dan menganalisis lalu lintas jaringan
 
 kemudian lakukan aktivitas seperti bermain game selama 10 menit untuk menganalisis lalu lintas jaringan
 
